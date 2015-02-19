@@ -1,2 +1,2 @@
-# police-chase
-Navigate the maze as a policeman arresting people with grudges! Game created using Phaser.
+# Grudge Melter
+Navigate the maze as a policeman, battling grudges by collecting slime and shooting it at the grudges to reveal their true love for you! Game created using Phaser. All of the code for this game resides on the gh-pages branch. Go to bridgetlane.github.io/grudge-melter to play.
